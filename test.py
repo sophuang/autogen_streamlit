@@ -40,7 +40,7 @@ boss_aid = RetrieveUserProxyAgent(
     retrieve_config={
         "task": "code",
         "docs_path": [
-            "/Users/apple/Desktop/GenAI/TE_asis/pre/data_store/SmartRDI_overall.pdf"
+            "SmartRDI_overall.pdf"
         ],
         "chunk_token_size": 2000,
         "model": config_list[0]["model"],
